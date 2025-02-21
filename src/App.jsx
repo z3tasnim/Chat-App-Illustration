@@ -15,7 +15,7 @@ export default function App() {
                 </div>
                 <div className="flex items-center pl-2 mr-auto">
                   <img
-                    src="\images\avatar.jpg"
+                    src="/Chat-App-Illustration/images/avatar.jpg"
                     alt="Avatar"
                     className="w-8 rounded-full border-white border-2 mr-2"
                   />
@@ -38,17 +38,17 @@ export default function App() {
                 <div className="flex flex-col space-y-2">
                   <div className="flex justify-end space-x-1">
                     <img
-                      src="\images\dog-image-1.jpg"
+                      src="/Chat-App-Illustration/images/dog-image-1.jpg"
                       alt="dog"
                       className="w-12 rounded-lg"
                     />
                     <img
-                      src="\images\dog-image-2.jpg"
+                      src="/Chat-App-Illustration/images/dog-image-2.jpg"
                       alt="dog"
                       className="w-12 rounded-lg"
                     />
                     <img
-                      src="\images\dog-image-3.jpg"
+                      src="/Chat-App-Illustration/images/dog-image-3.jpg"
                       alt="dog"
                       className="w-12 rounded-lg"
                     />
