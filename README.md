@@ -19,7 +19,7 @@ A sleek front-end illustration of a chat interface built using **React**, **Tail
 ![Screenshot 2025-06-22 212645](https://github.com/user-attachments/assets/6ef4129a-2732-4a8f-b0c8-71cb4dc32d51)
 
 <p align="center">
-  <img src="![WhatsApp Image 2025-06-22 at 21 27 46_2431a9bf](https://github.com/user-attachments/assets/d9ee9a0d-61bf-414b-be47-60be87863987)" alt="Chat App UI" width="500" />
+  <img src="https://github.com/user-attachments/assets/d9ee9a0d-61bf-414b-be47-60be87863987" alt="Chat App UI" width="500" />
 </p>
 
 ---
