@@ -2,6 +2,9 @@
 
 A sleek front-end illustration of a chat interface built using **React**, **Tailwind CSS**, and **Vite**. This is a static UI mockup designed to replicate a real-world chat experience with responsive design and a clean layout.
 
+## 🔗 Live Demo  
+[Click here to view the Chat App Illustration](https://z3tasnim.github.io/Chat-App-Illustration/)
+
 ---
 
 ## ✨ Features
